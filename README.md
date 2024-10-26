@@ -43,3 +43,10 @@ Group Members: Robert Longo & Riley Radici
   Upon beginning the hazards levels, move to a rifle to pick it up. You begin with 30 ammo and can shoot with the left mouse button - but once your ammo reaches 0, you can shoot no longer. There are ammo pickups that look like cups of the ammo projectile that you can run over to collect 10 more ammo. 
   
   In the hazards levels, there are hazards that can damage you. You begin with 100 health, and getting down to 0 or below will restart whichever level you are on. Lava will instantly kill you, while spikes will only do 50 damage each. Health can be regained using life packs, each one yielding 25 health.
+
+**Meetings List**
+
+    October 12th, 2024 - On Teams (1pm-1:30pm)
+    October 18th, 2024 - In Lab (9am-10am)
+    October 21st, 2024 - In Class (9am, 10am)
+    October 23rd, 2024 - On Teams (Over the course of the day, sporadically between 11:30am and 5:45pm)
