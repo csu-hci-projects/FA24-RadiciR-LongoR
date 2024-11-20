@@ -1587,3 +1587,65 @@ The following settings have been applied:
 [2024.11.20-01.26.26:424][874]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 1.22 sec)
 [2024.11.20-01.26.26:425][874]AssetCheck: New page: Asset Save: CustomMap
 [2024.11.20-01.26.26:425][874]LogContentValidation: Display: Validating /Script/Engine.World /Game/MyMaps/CustomMap.CustomMap
+[2024.11.20-01.29.42:395][333]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.20-01.29.42:483][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.11.20-01.29.42:502][333]LogSavePackage: Moving output files for package: /Game/MyMaps/CustomMap
+[2024.11.20-01.29.42:503][333]LogSavePackage: Moving '../../../../../../Users/rlongo24/Documents/GitHub/FA24-RadiciR-LongoR/Lab 4-5/Saved/CustomMap40931845488CE8D65F99C5B8B21DBC9B.tmp' to '../../../../../../Users/rlongo24/Documents/GitHub/FA24-RadiciR-LongoR/Lab 4-5/Content/MyMaps/CustomMap.umap'
+[2024.11.20-01.29.42:509][333]LogFileHelpers: Saving map 'CustomMap' took 0.059
+[2024.11.20-01.29.42:526][333]LogFileHelpers: InternalPromptForCheckoutAndSave took 131 ms (total: 1.35 sec)
+[2024.11.20-01.29.42:529][333]AssetCheck: New page: Asset Save: CustomMap
+[2024.11.20-01.29.42:529][333]LogContentValidation: Display: Validating /Script/Engine.World /Game/MyMaps/CustomMap.CustomMap
+[2024.11.20-01.29.50:870][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.11.20-01.29.50:873][177]Cmd: MAP LOAD FILE="../../../../../../Users/rlongo24/Documents/GitHub/FA24-RadiciR-LongoR/Lab 4-5/Content/VRTemplate/Maps/VRTemplateMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.11.20-01.29.50:873][177]LightingResults: New page: Lighting Build
+[2024.11.20-01.29.50:874][177]LoadErrors: New page: Loading map: VRTemplateMap.umap
+[2024.11.20-01.29.50:910][177]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.11.20-01.29.50:910][177]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.20-01.29.50:933][177]LogWorld: UWorld::CleanupWorld for CustomMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.20-01.29.50:933][177]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.20-01.29.50:933][177]MapCheck: New page: Map Check
+[2024.11.20-01.29.50:933][177]LightingResults: New page: Lighting Build
+[2024.11.20-01.29.50:946][177]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.20-01.29.50:948][177]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.11.20-01.29.50:962][177]LogAudio: Display: Audio Device (ID: 1) registered with world 'VRTemplateMap'.
+[2024.11.20-01.29.50:962][177]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.20-01.29.50:962][177]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.20-01.29.50:963][177]LogAIModule: Creating AISystem for world VRTemplateMap
+[2024.11.20-01.29.50:983][177]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.11.20-01.29.50:997][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.11.20-01.29.51:001][177]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.11.20-01.29.51:001][177]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.146ms to complete.
+[2024.11.20-01.29.51:001][177]LogSlate: Window 'Open Level' being destroyed
+[2024.11.20-01.29.51:040][177]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.11.20-01.30.07:660][ 57]Cmd: TRANSACTION UNDO
+[2024.11.20-01.30.07:661][ 57]LogEditorTransaction: Undo Move Elements
+[2024.11.20-01.30.14:879][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.11.20-01.30.14:882][736]Cmd: MAP LOAD FILE="../../../../../../Users/rlongo24/Documents/GitHub/FA24-RadiciR-LongoR/Lab 4-5/Content/MyMaps/CustomMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.11.20-01.30.14:882][736]LightingResults: New page: Lighting Build
+[2024.11.20-01.30.14:882][736]LoadErrors: New page: Loading map: CustomMap.umap
+[2024.11.20-01.30.14:903][736]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.20-01.30.14:903][736]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.20-01.30.14:903][736]MapCheck: New page: Map Check
+[2024.11.20-01.30.14:903][736]LightingResults: New page: Lighting Build
+[2024.11.20-01.30.14:914][736]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.20-01.30.14:917][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.11.20-01.30.14:928][736]LogAudio: Display: Audio Device (ID: 1) registered with world 'CustomMap'.
+[2024.11.20-01.30.14:929][736]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.20-01.30.14:929][736]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.20-01.30.14:929][736]LogAIModule: Creating AISystem for world CustomMap
+[2024.11.20-01.30.14:948][736]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.11.20-01.30.14:963][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.11.20-01.30.14:966][736]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.11.20-01.30.14:966][736]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.096ms to complete.
+[2024.11.20-01.30.14:966][736]LogSlate: Window 'Open Level' being destroyed
+[2024.11.20-01.30.18:861][189]Cmd: POLY SELECT ADJACENT WALLS
+[2024.11.20-01.33.32:239][495]Cmd: EDIT COPY
+[2024.11.20-01.33.32:456][521]Cmd: EDIT PASTE
+[2024.11.20-01.34.09:137][333]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.20-01.34.09:239][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.11.20-01.34.09:266][333]LogSavePackage: Moving output files for package: /Game/MyMaps/CustomMap
+[2024.11.20-01.34.09:266][333]LogSavePackage: Moving '../../../../../../Users/rlongo24/Documents/GitHub/FA24-RadiciR-LongoR/Lab 4-5/Saved/CustomMap52EADF824063E326504210927F03ADD9.tmp' to '../../../../../../Users/rlongo24/Documents/GitHub/FA24-RadiciR-LongoR/Lab 4-5/Content/MyMaps/CustomMap.umap'
+[2024.11.20-01.34.09:273][333]LogFileHelpers: Saving map 'CustomMap' took 0.084
+[2024.11.20-01.34.09:281][333]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 1.49 sec)
+[2024.11.20-01.34.09:284][333]AssetCheck: New page: Asset Save: CustomMap
+[2024.11.20-01.34.09:284][333]LogContentValidation: Display: Validating /Script/Engine.World /Game/MyMaps/CustomMap.CustomMap
