@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/rlongo24/Documents/Unreal Projects/Longo_Lab3/Longo_Lab3/Content/MyMaps/CustomMap.umap",
+				"C:/Users/rlongo24/Documents/Unreal Projects/Longo_Lab3/Longo_Lab3/Content/SM_MERGED_PottedPlant_C_3.uasset",
+				"C:/Users/rlongo24/Documents/Unreal Projects/Longo_Lab3/Longo_Lab3/Content/MyBlueprints/PottedPlant2.uasset",
+				"C:/Users/rlongo24/Documents/Unreal Projects/Longo_Lab3/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/rlongo24/Documents/Unreal Projects/Longo_Lab3/Content/MyBlueprints/Donut.uasset",
+				"C:/Users/rlongo24/Documents/Unreal Projects/Longo_Lab3/Content/MyBlueprints/Chair.uasset",
+				"C:/Users/rlongo24/Documents/Unreal Projects/Longo_Lab3/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/rlongo24/Documents/Unreal Projects/Longo_Lab3/Content/MyMaps/CustomMap.umap",
+				"C:/Users/rlongo24/Documents/Unreal Projects/Longo_Lab3/Content/MyBlueprints/PottedPlant.uasset",
+				"C:/Users/rlongo24/Documents/Unreal Projects/Longo_Lab3/Content/MyBlueprints/Ball.uasset",
+				"C:/Users/rlongo24/Documents/Unreal Projects/Longo_Lab3/Content/MyBlueprints/MyGrabbable.uasset"
+			]
+		}
+	]
+}
