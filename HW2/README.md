@@ -34,9 +34,9 @@ Group Members: Robert Longo & Riley Radici
 
 **Important Links**
 
-  Feature Showcase Video - 
+  Feature Showcase Video - https://youtu.be/30AJ_az5HgI
   
-  Blueprint Explanation Video - 
+  Blueprint Explanation Video - https://youtu.be/9vI7W5Kn-vk
 
 **Run Instructions**
 
