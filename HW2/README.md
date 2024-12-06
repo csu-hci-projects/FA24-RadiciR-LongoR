@@ -47,3 +47,5 @@ Group Members: Robert Longo & Riley Radici
 **Meetings List**
 
     December 3rd, 2024 - In Lab (9am-10am)
+    December 5th, 2024 - Over Teams (3pm-4pm)
+    
